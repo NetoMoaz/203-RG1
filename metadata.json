@@ -1,0 +1,6 @@
+{
+  "name": "203 RG Mobile",
+  "description": "Controle de Reconhecimento Geográfico e cadastro de imóveis em campo para o sistema 203 RG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
